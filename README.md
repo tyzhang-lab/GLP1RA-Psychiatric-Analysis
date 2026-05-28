@@ -1,4 +1,4 @@
-# Risk of Depressive and Anxiety Disorders Following Discontinuation of GLP-1 Receptor Agonists in Type 2 Diabetes: A Retrospective Cohort Study
+# Association of GLP-1 receptor agonist discontinuation and risk of depressive and anxiety disorders in people with type 2 diabetes: a cohort study
 
 This repository contains the standardized R analytical code and analytical framework for the replication of the retrospective active-controlled cohort study described in our paper.
 
